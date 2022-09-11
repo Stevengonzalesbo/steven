@@ -1,0 +1,25 @@
+body
+{
+    color: #333;
+    text-align: center;
+    font-family: "Arial";
+    font - size: 16 px;
+    margin: 0;
+    padding: 0;
+}
+
+#containner
+{
+    width : 70% ;
+    padding: 10cm;
+    text align: left;
+    border: 1 px;
+    color: (0,0,1);  
+    margin: 0 px auto ; 
+
+}
+
+#container h1
+{
+    font - size: 30px;
+}
