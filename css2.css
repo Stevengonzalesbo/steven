@@ -1,5 +1,6 @@
 body
 {
+    background-attachment: #1e1f24;
     color: red;
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
@@ -10,12 +11,12 @@ body
 
 #cabecera
 {
-    background: rgb(164, 244, 72);
+    background: #33a url("D:/git3/dragon.png")
     box-shadow: 0px 2px 20px 0px rgba(0, 0, 0);
     color: white;
     font-weight: bold;
     margin: 0;
-    padding: 0.5cm;
+    padding: 0.5cm 0 0.5cm 3cm;
 }
 
 #cabecera #tagline
@@ -33,6 +34,12 @@ body
     border: 10 px ;
     margin: 0 auto; 
 
+}
+
+#cabecera #logo
+{
+    width: 20px;
+    vertical-align: middle;
 }
 
 #container h1
