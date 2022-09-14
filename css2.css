@@ -1,7 +1,7 @@
 body
 {
-    background-attachment: #3152f6;
-    color: rgb(51, 30, 30);
+    background-attachment: #fffffffa;
+    color: rgb(50, 137, 142);
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 16 px;
@@ -11,24 +11,26 @@ body
 
 #cabecera
 {
-    background: rgb(89, 89, 237) url("D:/git3/dragon.png")
-    box-shadow:rgb(68, 134, 166)0px 2px 20px 0px rgba(0, 0, 0);
+    background: rgb(23, 23, 60);
+    box-shadow: 0px 2px 20px 0px rgba(4, 48, 71, 0.142) ;
+    color:rgb(244, 183, 103);
     font-weight: bold;
     margin: 0;
-    padding: 0.5cm 0 0.5cm 3cm;
+    padding: 0.5cm ;
 }
 
 #cabecera #tagline
 {
-    padding: 0 0 0 1 cm;
+    padding: 1 1 1 1 cm;
     font-weight: normal;
     font-size: 0.8cm;
 }
 #container
 {
-    border: 8px solid rgb(68, 134, 166) ;
+    color:bisque;
+    border: 8px solid rgba(4, 48, 71, 0.142) ;
     width : 70% ;
-    padding: 1em;
+    padding: 1cm;
     text-align: left ;
     border: 10 px ;
     margin: 0 auto; 
@@ -37,11 +39,12 @@ body
 
 #cabecera #logo
 {
-    width: 20px;
+    width: 30px;
     vertical-align: middle;
 }
 
 #container h1
 {
+    color:whitesmoke;
     font-size: 40 px;
 }
