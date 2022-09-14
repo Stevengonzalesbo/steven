@@ -1,7 +1,7 @@
 body
 {
-    background-attachment: #1e1f24;
-    color: red;
+    background-attachment: #3152f6;
+    color: rgb(51, 30, 30);
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 16 px;
@@ -11,9 +11,8 @@ body
 
 #cabecera
 {
-    background: #33a url("D:/git3/dragon.png")
-    box-shadow: 0px 2px 20px 0px rgba(0, 0, 0);
-    color: white;
+    background: rgb(89, 89, 237) url("D:/git3/dragon.png")
+    box-shadow:rgb(68, 134, 166)0px 2px 20px 0px rgba(0, 0, 0);
     font-weight: bold;
     margin: 0;
     padding: 0.5cm 0 0.5cm 3cm;
@@ -27,7 +26,7 @@ body
 }
 #container
 {
-    border: 8px solid #245 ;
+    border: 8px solid rgb(68, 134, 166) ;
     width : 70% ;
     padding: 1em;
     text-align: left ;
