@@ -1,6 +1,6 @@
 body
 {
-    color: red;
+    color: black;
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 16 px;
@@ -10,9 +10,9 @@ body
 
 #cabecera
 {
-    background: rgb(164, 244, 72);
+    background: rgb(101, 145, 206);
     box-shadow: 0px 2px 20px 0px rgba(0, 0, 0);
-    color: white;
+    color: rgb(22, 20, 20);
     font-weight: bold;
     margin: 0;
     padding: 0.5cm;
@@ -38,4 +38,12 @@ body
 #container h1
 {
     font-size: 40 px;
+}
+
+#footer
+{
+    background: #777 ;
+    color: white ;
+    text-align: center;
+    padding: 0.1cm;
 }
