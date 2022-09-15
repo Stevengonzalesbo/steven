@@ -1,6 +1,11 @@
 body
 {
+<<<<<<< HEAD
     color: black;
+=======
+    background-attachment: #fffffffa;
+    color: rgb(50, 137, 142);
+>>>>>>> header
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 16 px;
@@ -10,33 +15,47 @@ body
 
 #cabecera
 {
+<<<<<<< HEAD
     background: rgb(101, 145, 206);
     box-shadow: 0px 2px 20px 0px rgba(0, 0, 0);
     color: rgb(22, 20, 20);
+=======
+    background: rgb(23, 23, 60);
+    box-shadow: 0px 2px 20px 0px rgba(4, 48, 71, 0.142) ;
+    color:rgb(244, 183, 103);
+>>>>>>> header
     font-weight: bold;
     margin: 0;
-    padding: 0.5cm;
+    padding: 0.5cm ;
 }
 
 #cabecera #tagline
 {
-    padding: 0 0 0 1 cm;
+    padding: 1 1 1 1 cm;
     font-weight: normal;
     font-size: 0.8cm;
 }
 #container
 {
-    border: 8px solid #245 ;
+    color:bisque;
+    border: 8px solid rgba(4, 48, 71, 0.142) ;
     width : 70% ;
-    padding: 1em;
+    padding: 1cm;
     text-align: left ;
     border: 10 px ;
     margin: 0 auto; 
 
 }
 
+#cabecera #logo
+{
+    width: 30px;
+    vertical-align: middle;
+}
+
 #container h1
 {
+    color:whitesmoke;
     font-size: 40 px;
 }
 
